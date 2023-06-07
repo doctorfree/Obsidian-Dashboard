@@ -10,8 +10,8 @@
     "【进度颜色】colourful progress bar",
     "【边栏图标】sidepane"
   ],
-  "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
   "baseFontSize": 14,
   "accentColor": ""
 }

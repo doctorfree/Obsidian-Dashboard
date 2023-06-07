@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b8d4df6d071cca",
+        "id": "7de136dea095c270",
         "type": "tabs",
         "children": [
           {
@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - People/Colleagues/Two.md",
-                "mode": "source",
+                "file": "40 - Obsidian/Homepages/00. Homepage.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - People/Colleagues/Two.md"
+                "file": "40 - Obsidian/Homepages/00. Homepage.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - People/Colleagues/Two.md",
+                "file": "40 - Obsidian/Homepages/00. Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,20 +162,35 @@
     "direction": "horizontal",
     "width": 302.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "big-calendar:Big Calendar": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false
+    }
   },
-  "active": "2b5b7092aa44231f",
+  "active": "3e53c96b6f78fe7b",
   "lastOpenFiles": [
-    "10 - People/Colleagues/One.md",
     "40 - Obsidian/Homepages/00. Homepage.md",
+    "40 - Obsidian/Homepages/00. Files.md",
+    "40 - Obsidian/Homepages/00. Dashboard.md",
+    "00 - DailyNotes/DailyNote/2022-05-10.md",
+    "10 - People/Colleagues/Two.md",
+    "10 - People/Colleagues/One.md",
     "10 - People/Family/Qin.md",
     "20 - Work & Study/Work/00. Work.md",
     "20 - Work & Study/Study/00. Study.md",
     "Updates and Bug Fixes.md",
     "Frequently Asked Questions.md",
     "50 - Zettelkasten/00. Cardbox.md",
-    "40 - Obsidian/Homepages/00. References.md",
-    "40 - Obsidian/Homepages/00. Dashboard.md"
+    "40 - Obsidian/Homepages/00. References.md"
   ]
 }

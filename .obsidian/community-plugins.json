@@ -1,6 +1,5 @@
 [
   "quickadd",
-  "obsidian-admonition",
   "obsidian-advanced-uri",
   "obsidian-banners",
   "calendar",
@@ -22,5 +21,6 @@
   "obsidian-minimal-settings",
   "obsidian-icon-folder",
   "obsidian-style-settings",
-  "obsidian-dynamic-toc"
+  "obsidian-dynamic-toc",
+  "obsidian-admonition"
 ]

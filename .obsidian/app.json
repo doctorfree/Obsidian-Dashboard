@@ -1,7 +1,8 @@
 {
   "communityThemeSortOrder": "download",
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview"
 }
