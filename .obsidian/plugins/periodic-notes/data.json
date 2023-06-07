@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "template": "40 - Obsidian/Templates/New Daily template.md",
+    "folder": "00 - DailyNotes/DailyNote",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY-WW",
+    "template": "40 - Obsidian/Templates/New Weekly template.md",
+    "folder": "00 - DailyNotes/WeeklyNote",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

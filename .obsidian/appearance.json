@@ -1,0 +1,17 @@
+{
+  "enabledCssSnippets": [
+    "【主页设置】homepage setting",
+    "【主页设置】homepage setting media mobile",
+    "【卡片视图】zettelkasten",
+    "【项目管理】sharetype",
+    "【分栏支持】admonition-col2-col3-flex",
+    "【AD优化】admonitions",
+    "【边栏图标】sidepane file title icon",
+    "【进度颜色】colourful progress bar",
+    "【边栏图标】sidepane"
+  ],
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSize": 14,
+  "accentColor": ""
+}
